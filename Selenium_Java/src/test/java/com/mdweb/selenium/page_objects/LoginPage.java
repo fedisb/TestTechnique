@@ -1,12 +1,12 @@
-package com.mdweb.selenium.page_objects;
+package com.testtechnique.selenium.page_objects;
 
-import com.mdweb.selenium.DriverBase;
-import com.mdweb.selenium.model.User;
+import com.testtechnique.selenium.DriverBase;
+import com.testtechnique.selenium.model.User;
 import com.lazerycode.selenium.util.Query;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 
-import static com.mdweb.selenium.page_objects.CrudTache.LOG;
+import static com.testtechnique.selenium.page_objects.CrudTache.LOG;
 import static com.lazerycode.selenium.util.AssignDriver.initQueryObjects;
 
 public class LoginPage {

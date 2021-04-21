@@ -1,4 +1,4 @@
-package com.mdweb.selenium.model;
+package com.testtechnique.selenium.model;
 
 public class Tache {
 

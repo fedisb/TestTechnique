@@ -1,7 +1,7 @@
-package com.mdweb.selenium;
+package com.testtechnique.selenium;
 
-import com.mdweb.selenium.config.DriverFactory;
-import com.mdweb.selenium.listeners.ScreenshotListener;
+import com.testtechnique.selenium.config.DriverFactory;
+import com.testtechnique.selenium.listeners.ScreenshotListener;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.remote.RemoteWebDriver;

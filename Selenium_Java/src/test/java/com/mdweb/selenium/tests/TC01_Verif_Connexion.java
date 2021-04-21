@@ -1,9 +1,9 @@
-package com.mdweb.selenium.tests;
+package com.testtechnique.selenium.tests;
 
-import com.mdweb.selenium.DriverBase;
-import com.mdweb.selenium.listeners.ScreenshotListener;
-import com.mdweb.selenium.model.User;
-import com.mdweb.selenium.page_objects.LoginPage;
+import com.testtechnique.selenium.DriverBase;
+import com.testtechnique.selenium.listeners.ScreenshotListener;
+import com.testtechnique.selenium.model.User;
+import com.testtechnique.selenium.page_objects.LoginPage;
 import io.appium.java_client.functions.ExpectedCondition;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;

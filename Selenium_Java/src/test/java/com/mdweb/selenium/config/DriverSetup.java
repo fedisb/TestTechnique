@@ -1,4 +1,4 @@
-package com.mdweb.selenium.config;
+package com.testtechnique.selenium.config;
 
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;

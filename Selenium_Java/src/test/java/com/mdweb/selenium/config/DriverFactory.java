@@ -1,4 +1,4 @@
-package com.mdweb.selenium.config;
+package com.testtechnique.selenium.config;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;

@@ -1,6 +1,6 @@
-package com.mdweb.selenium.listeners;
+package com.testtechnique.selenium.listeners;
 
-import com.mdweb.selenium.DriverBase;
+import com.testtechnique.selenium.DriverBase;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.OutputType;

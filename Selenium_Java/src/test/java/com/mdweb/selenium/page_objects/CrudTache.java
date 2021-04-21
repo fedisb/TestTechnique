@@ -1,8 +1,8 @@
-package com.mdweb.selenium.page_objects;
+package com.testtechnique.selenium.page_objects;
 
 import com.lazerycode.selenium.util.Query;
-import com.mdweb.selenium.DriverBase;
-import com.mdweb.selenium.model.Tache;
+import com.testtechnique.selenium.DriverBase;
+import com.testtechnique.selenium.model.Tache;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.core.Logger;
 import org.openqa.selenium.By;

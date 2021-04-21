@@ -1,4 +1,4 @@
-package com.mdweb.selenium.config;
+package com.testtechnique.selenium.config;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;

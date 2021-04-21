@@ -3,11 +3,12 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-    <groupId>com.mdweb.selenium</groupId>
-    <artifactId>MDWEB-Project</artifactId>
+
+    <groupId>com.testtechnique.selenium</groupId>
+    <artifactId>Selenium_Java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
-    <name>MDWEB-Project</name>
+    <name>Selenium_Java</name>
     <description>desc</description>
     <url>http://localhost:3000/</url>
 
@@ -52,7 +53,7 @@
         <proxyPort/>
         <proxyUsername/>
         <proxyPassword/>
-        <webdriver.chrome.driver>D:\MDWEB_Tests\src\test\resources\selenium_standalone_binaries\windows\googlechrome\64bit\chromedriver.exe</webdriver.chrome.driver>
+        <webdriver.chrome.driver>D:\Selenium_Java\src\test\resources\selenium_standalone_binaries\windows\googlechrome\64bit\chromedriver.exe</webdriver.chrome.driver>
     </properties>
 
     <dependencies>
@@ -134,13 +135,11 @@
         </dependency>
     </dependencies>
 
-
-
     <distributionManagement>
         <repository>
             <id>internal.repo</id>
             <name>Internal repo</name>
-            <url>file:///D:\MDWEB_Tests/Int</url>
+            <url>file:///D:\Selenium_Java/Int</url>
         </repository>
     </distributionManagement>
 
@@ -230,7 +229,7 @@
 <!--                                    </property>-->
                                 </systemPropertyVariables>
                                 <suiteXmlFiles>
-                                    <suiteXmlFile>D:\MDWEB_Tests\testng1.xml</suiteXmlFile>
+                                    <suiteXmlFile>D:\Selenium_Java\testng1.xml</suiteXmlFile>
                                 </suiteXmlFiles>
                             </configuration>
 
