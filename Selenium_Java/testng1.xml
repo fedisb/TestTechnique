@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/MDWEB_Tests/src/test/java/com/mdweb/selenium/tests">
+        <classes>
+            <class name="TC01_Verif_Connexion">
+                <methods>
+                    <include name="TC01_Verif_Connexion"/>
+                </methods>
+            </class>
+            <class name="TC02_CRUD_Tache">
+                <methods>
+                    <include name="TC02_CRUD_Tache"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
